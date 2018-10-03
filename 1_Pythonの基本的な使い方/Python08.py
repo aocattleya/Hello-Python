@@ -1,3 +1,5 @@
+# 変数を使った計算
+
 apple_price = 200
 apple_count = 8
 
