@@ -6,3 +6,9 @@ def hello(name, message = 'こんにちは'):
 
 hello('John', 'こんばんは')
 hello('Kate')
+
+# 結果
+# Johnさん、こんばんは
+# Kateさん、こんにちは
+
+# 1だけの場合は、"こんにちは"が入る
