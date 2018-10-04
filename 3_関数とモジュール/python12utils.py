@@ -1,5 +1,5 @@
 # モジュール
-# Python12へimportして使う
+# Python12へimport
 
 def validate(hand):
     if hand < 0 or hand > 2:
