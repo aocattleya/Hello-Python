@@ -1,3 +1,5 @@
+# インスタンスの生成
+
 class MenuItem:
     pass
 
