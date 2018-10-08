@@ -25,4 +25,4 @@
 |21|[and](https://github.com/aocattleya/HelloPython/blob/master/1_Python%E3%81%AE%E5%9F%BA%E6%9C%AC%E7%9A%84%E3%81%AA%E4%BD%BF%E3%81%84%E6%96%B9/Python21.py)|
 |22|[or](https://github.com/aocattleya/HelloPython/blob/master/1_Python%E3%81%AE%E5%9F%BA%E6%9C%AC%E7%9A%84%E3%81%AA%E4%BD%BF%E3%81%84%E6%96%B9/Python22.py)|
 |23|[not](https://github.com/aocattleya/HelloPython/blob/master/1_Python%E3%81%AE%E5%9F%BA%E6%9C%AC%E7%9A%84%E3%81%AA%E4%BD%BF%E3%81%84%E6%96%B9/Python23.py)|
-|24|[お買い物代金を計算](https://github.com/aocattleya/HelloPython/blob/master/1_Python%E3%81%AE%E5%9F%BA%E6%9C%AC%E7%9A%84%E3%81%AA%E4%BD%BF%E3%81%84%E6%96%B9/Python25.py)|
+|24|[お買い物代金を計算](https://github.com/aocattleya/HelloPython/blob/master/1_Python%E3%81%AE%E5%9F%BA%E6%9C%AC%E7%9A%84%E3%81%AA%E4%BD%BF%E3%81%84%E6%96%B9/Python24.py)|
