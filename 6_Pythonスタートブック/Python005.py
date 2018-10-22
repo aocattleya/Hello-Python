@@ -20,3 +20,11 @@ print(country_code)
 # 指定されたキーとそれに関連付けられた値を削除
 country_code.pop(1)   # popメソッド
 print(country_code)
+
+# 空の辞書を作る
+new_dict = {}
+
+# 空の辞書にどんどん追加する
+new_dict['apple'] = 100
+new_dict['orange'] = 140
+print(new_dict)
